@@ -1,0 +1,24 @@
+*{
+    border: 0.5px solid red;
+}
+.Product{
+    background-color: #f2f2f2;
+    text-align: center;
+}
+.ProductImage{
+    width: 254px;
+    display: block;
+    margin: auto;
+}
+.ProductRow{
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.ProductCol{
+    background-color: white;
+    border-radius: 15px;
+    padding: 20px;
+}
+.ProductLink{
+    color: black;
+}
